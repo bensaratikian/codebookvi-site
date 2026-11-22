@@ -1,5 +1,5 @@
 {
-  "revision": 2,
+  "revision": 3,
   "activities": {"Story": "História", "Money": "Dinheiro", "Wanted level": "Nível de procurado", "Driving & stunts": "Direção e acrobacias", "Fitness & hobbies": "Condicionamento e passatempos", "Shooting ranges": "Estandes de tiro", "Explosives & fire": "Explosivos e fogo", "Discoveries": "Descobertas", "Challenges": "Desafios", "Collectibles": "Colecionáveis", "With your partner": "Com seu parceiro"},
   "cheats": {
     "money": {"name": "US$ 250.000", "effect": "Adiciona US$ 250.000 ao seu dinheiro na hora. O dinheiro some quando você carrega um save limpo.", "unlock": "Termine a história"},

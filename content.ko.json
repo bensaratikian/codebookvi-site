@@ -1,5 +1,5 @@
 {
-  "revision": 2,
+  "revision": 3,
   "activities": {"Story": "스토리", "Money": "돈", "Wanted level": "수배 레벨", "Driving & stunts": "운전 및 스턴트", "Fitness & hobbies": "운동 및 취미", "Shooting ranges": "사격장", "Explosives & fire": "폭발물 및 화염", "Discoveries": "발견", "Challenges": "챌린지", "Collectibles": "수집품", "With your partner": "파트너와 함께"},
   "cheats": {
     "money": {"name": "$250,000", "effect": "즉시 현금 $250,000를 추가합니다. 깨끗한 저장 파일을 불러오면 사라집니다.", "unlock": "스토리 완료"},

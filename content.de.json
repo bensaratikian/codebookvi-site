@@ -1,5 +1,5 @@
 {
-  "revision": 2,
+  "revision": 3,
   "activities": {"Story": "Story", "Money": "Geld", "Wanted level": "Fahndungslevel", "Driving & stunts": "Fahren & Stunts", "Fitness & hobbies": "Fitness & Hobbys", "Shooting ranges": "Schießstände", "Explosives & fire": "Sprengstoff & Feuer", "Discoveries": "Entdeckungen", "Challenges": "Herausforderungen", "Collectibles": "Sammelobjekte", "With your partner": "Mit deinem Partner"},
   "cheats": {
     "money": {"name": "250.000 $", "effect": "Gibt dir sofort 250.000 $ Bargeld. Das Geld ist weg, wenn du einen sauberen Spielstand lädst.", "unlock": "Story abschließen"},

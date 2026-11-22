@@ -1,5 +1,5 @@
 {
-  "revision": 2,
+  "revision": 3,
   "activities": {"Story": "Storia", "Money": "Soldi", "Wanted level": "Livello di ricercato", "Driving & stunts": "Guida e acrobazie", "Fitness & hobbies": "Forma fisica e hobby", "Shooting ranges": "Poligoni di tiro", "Explosives & fire": "Esplosivi e fuoco", "Discoveries": "Scoperte", "Challenges": "Sfide", "Collectibles": "Collezionabili", "With your partner": "Con il tuo partner"},
   "cheats": {
     "money": {"name": "250.000 $", "effect": "Aggiunge subito 250.000 $ ai tuoi contanti. I soldi si perdono quando ricarichi un salvataggio pulito.", "unlock": "Completa la storia"},

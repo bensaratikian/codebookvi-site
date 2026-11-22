@@ -1,5 +1,5 @@
 {
-  "revision": 2,
+  "revision": 3,
   "activities": {"Story": "剧情", "Money": "金钱", "Wanted level": "通缉等级", "Driving & stunts": "驾驶与特技", "Fitness & hobbies": "健身与爱好", "Shooting ranges": "射击场", "Explosives & fire": "爆炸物与火焰", "Discoveries": "发现", "Challenges": "挑战", "Collectibles": "收藏品", "With your partner": "与搭档一起"},
   "cheats": {
     "money": {"name": "$250,000", "effect": "立即为你增加 $250,000 现金。读取干净存档后这笔钱会消失。", "unlock": "完成剧情"},

@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 2,
+  "revision": 3,
   "lastChecked": "2026-11-21",
   "cheats": [
     {"id": "money", "name": "$250,000", "category": "player", "activity": "Story", "effect": "Adds $250,000 to your cash right away. The money is lost when you reload a clean save.", "code": ["U", "R", "D", "L", "U", "L", "D", "R"], "status": "confirmed", "unlock": "Finish the story"},
@@ -85,12 +85,12 @@
       [[0.62, 0.5], [0.67, 0.48], [0.71, 0.52], [0.68, 0.57], [0.63, 0.56]]
     ],
     "regions": [
-      {"id": "port-gellhorn", "name": "Port Gellhorn", "label": [0.17, 0.165], "shape": [[0, 0], [0.31, 0], [0.34, 0.3], [0, 0.3]]},
-      {"id": "mount-kalaga", "name": "Mount Kalaga", "label": [0.58, 0.16], "shape": [[0.31, 0], [1, 0], [1, 0.24], [0.62, 0.3], [0.42, 0.3], [0.34, 0.3]]},
-      {"id": "ambrosia", "name": "Ambrosia", "label": [0.7, 0.4], "shape": [[0.42, 0.3], [0.62, 0.3], [1, 0.24], [1, 0.56], [0.58, 0.56], [0.44, 0.44]]},
-      {"id": "grassrivers", "name": "Grassrivers", "label": [0.56, 0.68], "shape": [[0.44, 0.44], [0.58, 0.56], [0.7, 0.62], [0.66, 0.95], [0.4, 0.95], [0.4, 0.44]]},
-      {"id": "vice-city", "name": "Vice City", "label": [0.79, 0.7], "shape": [[0.58, 0.56], [1, 0.56], [1, 0.88], [0.66, 0.88], [0.7, 0.62]]},
-      {"id": "leonida-keys", "name": "Leonida Keys", "label": [0.5, 0.975], "shape": [[0.25, 0.885], [0.8, 0.885], [0.8, 1], [0.25, 1]]}
+      {"id": "port-gellhorn", "name": "Port Gellhorn", "label": [0.17, 0.165], "terrain": "forest", "shape": [[0, 0], [0.31, 0], [0.34, 0.3], [0, 0.3]]},
+      {"id": "mount-kalaga", "name": "Mount Kalaga", "label": [0.58, 0.16], "terrain": "mountains", "shape": [[0.31, 0], [1, 0], [1, 0.24], [0.62, 0.3], [0.42, 0.3], [0.34, 0.3]]},
+      {"id": "ambrosia", "name": "Ambrosia", "label": [0.7, 0.4], "terrain": "farmland", "shape": [[0.42, 0.3], [0.62, 0.3], [1, 0.24], [1, 0.56], [0.58, 0.56], [0.44, 0.44]]},
+      {"id": "grassrivers", "name": "Grassrivers", "label": [0.56, 0.68], "terrain": "swamp", "shape": [[0.44, 0.44], [0.58, 0.56], [0.7, 0.62], [0.66, 0.95], [0.4, 0.95], [0.4, 0.44]]},
+      {"id": "vice-city", "name": "Vice City", "label": [0.79, 0.7], "terrain": "city", "shape": [[0.58, 0.56], [1, 0.56], [1, 0.88], [0.66, 0.88], [0.7, 0.62]]},
+      {"id": "leonida-keys", "name": "Leonida Keys", "label": [0.5, 0.975], "terrain": "beach", "shape": [[0.25, 0.885], [0.8, 0.885], [0.8, 1], [0.25, 1]]}
     ]
   }
 }
