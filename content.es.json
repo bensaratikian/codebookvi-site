@@ -1,5 +1,5 @@
 {
-  "revision": 1,
+  "revision": 2,
   "activities": {"Story": "Historia", "Money": "Dinero", "Wanted level": "Nivel de búsqueda", "Driving & stunts": "Conducción y acrobacias", "Fitness & hobbies": "Forma física y aficiones", "Shooting ranges": "Campos de tiro", "Explosives & fire": "Explosivos y fuego", "Discoveries": "Descubrimientos", "Challenges": "Desafíos", "Collectibles": "Coleccionables", "With your partner": "Con tu pareja"},
   "cheats": {
     "money": {"name": "250.000 $", "effect": "Añade 250.000 $ a tu efectivo al instante. El dinero se pierde al cargar una partida limpia.", "unlock": "Termina la historia"},

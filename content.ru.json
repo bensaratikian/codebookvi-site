@@ -1,5 +1,5 @@
 {
-  "revision": 1,
+  "revision": 2,
   "activities": {"Story": "Сюжет", "Money": "Деньги", "Wanted level": "Уровень розыска", "Driving & stunts": "Вождение и трюки", "Fitness & hobbies": "Фитнес и хобби", "Shooting ranges": "Тиры", "Explosives & fire": "Взрывчатка и огонь", "Discoveries": "Открытия", "Challenges": "Испытания", "Collectibles": "Коллекционные предметы", "With your partner": "С напарником"},
   "cheats": {
     "money": {"name": "$250 000", "effect": "Сразу добавляет $250 000 наличными. Деньги пропадут, если загрузить чистое сохранение.", "unlock": "Пройти сюжет"},

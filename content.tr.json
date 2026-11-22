@@ -1,5 +1,5 @@
 {
-  "revision": 1,
+  "revision": 2,
   "activities": {"Story": "Hikâye", "Money": "Para", "Wanted level": "Aranma seviyesi", "Driving & stunts": "Sürüş ve akrobasi", "Fitness & hobbies": "Fitness ve hobiler", "Shooting ranges": "Atış poligonları", "Explosives & fire": "Patlayıcılar ve ateş", "Discoveries": "Keşifler", "Challenges": "Meydan okumalar", "Collectibles": "Koleksiyon eşyaları", "With your partner": "Partnerinle"},
   "cheats": {
     "money": {"name": "250.000 $", "effect": "Nakit paranı hemen 250.000 $ artırır. Temiz bir kayıt yüklediğinde para kaybolur.", "unlock": "Hikâyeyi bitir"},

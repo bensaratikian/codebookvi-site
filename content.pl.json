@@ -1,5 +1,5 @@
 {
-  "revision": 1,
+  "revision": 2,
   "activities": {"Story": "Fabuła", "Money": "Pieniądze", "Wanted level": "Poziom poszukiwania", "Driving & stunts": "Jazda i akrobacje", "Fitness & hobbies": "Kondycja i hobby", "Shooting ranges": "Strzelnice", "Explosives & fire": "Materiały wybuchowe i ogień", "Discoveries": "Odkrycia", "Challenges": "Wyzwania", "Collectibles": "Znajdźki", "With your partner": "Z partnerem"},
   "cheats": {
     "money": {"name": "250 000 $", "effect": "Od razu dodaje 250 000 $ gotówki. Pieniądze przepadają po wczytaniu czystego zapisu.", "unlock": "Ukończ fabułę"},

@@ -1,5 +1,5 @@
 {
-  "revision": 1,
+  "revision": 2,
   "activities": {"Story": "ストーリー", "Money": "お金", "Wanted level": "手配度", "Driving & stunts": "ドライブとスタント", "Fitness & hobbies": "フィットネスと趣味", "Shooting ranges": "射撃場", "Explosives & fire": "爆発物と炎", "Discoveries": "発見", "Challenges": "チャレンジ", "Collectibles": "収集アイテム", "With your partner": "パートナーと"},
   "cheats": {
     "money": {"name": "$250,000", "effect": "すぐに所持金に$250,000を追加します。クリーンなセーブデータをロードすると消えます。", "unlock": "ストーリーをクリア"},

@@ -1,5 +1,5 @@
 {
-  "revision": 1,
+  "revision": 2,
   "activities": {"Story": "Histoire", "Money": "Argent", "Wanted level": "Niveau de recherche", "Driving & stunts": "Conduite et cascades", "Fitness & hobbies": "Forme et loisirs", "Shooting ranges": "Stands de tir", "Explosives & fire": "Explosifs et feu", "Discoveries": "Découvertes", "Challenges": "Défis", "Collectibles": "Objets à collectionner", "With your partner": "Avec ton partenaire"},
   "cheats": {
     "money": {"name": "250 000 $", "effect": "Ajoute immédiatement 250 000 $ à ton argent liquide. L'argent est perdu quand tu recharges une sauvegarde propre.", "unlock": "Terminer l'histoire"},
